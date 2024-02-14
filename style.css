@@ -39,4 +39,20 @@ body{
     display: flex;
     justify-content: space-between;
     padding: 1em;
+    background-color: white;
+}
+.task2{
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    background-color: gray;
+}
+
+.task-done{
+    text-decoration: line-through;
+    
+}
+
+.task-icon{
+    margin-right: 10px;
 }

@@ -33,6 +33,7 @@ body{
     left:0px;
     top:52px;
     padding: 0px;
+    transition: 0.5s;
 }
 
 .task{
@@ -55,4 +56,8 @@ body{
 
 .task-icon{
     margin-right: 10px;
+}
+
+.task-tabs div {
+    cursor: pointer;
 }
